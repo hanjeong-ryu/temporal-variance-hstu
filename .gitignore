@@ -1,0 +1,14 @@
+data/*
+!data/.gitkeep
+*.zip
+*.dat
+*.csv
+!results/*.csv
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+.DS_Store
+.vscode/
