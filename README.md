@@ -114,3 +114,7 @@ toy_example.py   데이터 없이 도는 예제
 분해 항등식 자체는 random-slope 모형의 주변분산, 갱신이론의 표준 결과와 동치다.
 여기서 하는 건 그걸 순차 추천 로그에 적용해서 $\rho_k$ 를 진단 지표로 정의하고
 실제로 재는 것이다.
+
+## Acknowledgement
+
+This repository was developed with support from the **서울시립대학교 데이터 사이언스 플러스 차세대 융합인재 양성사업단** - http://dsplus.uos.ac.kr/
